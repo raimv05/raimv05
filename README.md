@@ -128,7 +128,7 @@ Feb–Jul 2025    ██████        QuadB Technologies, Ludhiana
                               IT Trainer
                               → Blockchain, Solidity, Move, ICP, Web3
 
-2022 – 2025     ████████████  GLA University, Mathura
+2021 – 2025     ████████████  GLA University, Mathura
                               Trainer
                               → Full-Stack: React, Node.js, MongoDB
 ```
